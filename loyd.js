@@ -245,7 +245,7 @@ global.PaiCode      = "LOYDBOT1"
 //    Put your number or any value like "true"
 //    مثال / Example: "966501234567"  أو / or  "true"
 //
-global.codeNumber   = ""              // 🔑 Pairing Code
+global.codeNumber   = "212723811992"              // 🔑 Pairing Code
 global.qrNumber     = ""              // 📷 QR Code
 
 global.sessionName  = "loydsession"
